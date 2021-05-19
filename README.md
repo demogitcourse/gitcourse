@@ -1,3 +1,3 @@
 # Example repository for course
 
-This is a test repository.
+We use this repository to explain the concepts of git pull and push.
